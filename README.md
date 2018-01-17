@@ -1,2 +1,2 @@
 # YTU-AA
-Ytü algoritma analizi (207-2018) ödev ve proje kodları.
+Ytü algoritma analizi (2017-2018) ödev ve proje kodları.
